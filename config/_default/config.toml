@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com/"
+#baseURL = "https://www.example.com/"
 title = "Sajjad's Personal Website Shell"
 # author = "Yukuro"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
