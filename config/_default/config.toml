@@ -28,7 +28,7 @@ ignoreErrors = ["error-remote-getjson"]
   userName = "sajjad"
   pcName = "website"
   workDir = "mydir"
-  profile = "profile.txt"
+  profile = "README.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
