@@ -46,15 +46,19 @@ ignoreErrors = ["error-remote-getjson"]
 
 #can also be a markdown file
   description = """ 
-  Hello, World! I’m a rising junior at Columbia studying Computer Science. 
-  I was born and raised in Karachi, and since moving to New York I have 
-  fallen in love with startups and with Computer Science. I love to code.
-  I love to create things. And I love that I can create things with code.
+  Hello, World! I’m a rising junior at Columbia 
+  studying Computer Science. I was born and 
+  raised in Karachi, and since moving to New York
+  I have fallen in love with startups and with 
+  Computer Science. I love to code. I love to 
+  create things. And I love that I can create
+  things with code.
 
-  I am constantly humbled and amazed by power of the internet to create 
-  opportunity globally, and I am passionate about solving the difficult 
-  problems to unleash the true promise of the internet for everyone, 
-  anywhere.
+  I am constantly humbled and amazed by power
+  of the internet to create opportunity globally,
+  and I am passionate about solving the difficult 
+  problems to unleash the true promise of the 
+  internet for everyone, anywhere.
 
   """
 
