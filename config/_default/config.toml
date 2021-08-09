@@ -53,7 +53,8 @@ ignoreErrors = ["error-remote-getjson"]
 
   I am constantly humbled and amazed by power of the internet to create 
   opportunity globally, and I am passionate about solving the difficult 
-  problems to unleash the true promise of the internet for everyone, anywhere.
+  problems to unleash the true promise of the internet for everyone, 
+  anywhere.
 
   """
 
@@ -68,9 +69,9 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["More about me", "/temp.md"],
-    ["Portfolio", "/temp.md"],
-    ["Blog", "/temp.md"],
+    ["More about me", "../temp.md"],
+    ["Portfolio", "../../temp.md"],
+    ["Blog", "../../content/temp.md"],
     ["Book Shelf", "/temp.md"],
     ["Resume", "/temp.md"],
     ["Contact", "/temp.md"],
