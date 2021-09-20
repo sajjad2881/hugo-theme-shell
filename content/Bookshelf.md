@@ -3,28 +3,11 @@
 
 
 
-
-## Current Shelf 
-
-
-
-
 _**Working Backwards: Insights, Stories, and Secrets from Inside Amazon**_ by Bill Carr and Colin Bryar
 
 _**Software Engineering at Google: Lessons Learned from Programming Over Time**_ by Hyrum Wright, Titus Winters, and Tom Manshreck
 
 _**Sigh, Gone: A Misfit's Memoir of Great Books, Punk Rock, and the Fight to Fit In**_ by Phuc Tran
-
-
-
-
-
-
-
-## Recommendations 
-
-
-
 
 _**Metamorphoses**_ by Ovid 
 
