@@ -78,7 +78,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["Blog", "/temp.md"],
     ["Book Shelf", "/Bookshelf.md"],
     ["Resume", "/temp.md"],
-    ["Contact", "/temp.md"],
+    ["Contact", "/Contact.md"],
   ]
 
 [module]
