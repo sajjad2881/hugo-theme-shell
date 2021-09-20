@@ -1,6 +1,10 @@
 # Bookshelf
 
-### Current Shelf 
+
+
+
+
+## Current Shelf 
 
 
 
@@ -17,7 +21,8 @@ _**Sigh, Gone: A Misfit's Memoir of Great Books, Punk Rock, and the Fight to Fit
 
 
 
-### Recommendations 
+## Recommendations 
+
 
 
 
