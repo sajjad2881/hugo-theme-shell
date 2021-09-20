@@ -76,7 +76,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["My Story", "/temp.md"],
     ["Portfolio", "/temp.md"],
     ["Blog", "/temp.md"],
-    ["Book Shelf", "/temp.md"],
+    ["Book Shelf", "/Bookshelf.md"],
     ["Resume", "/temp.md"],
     ["Contact", "/temp.md"],
   ]
