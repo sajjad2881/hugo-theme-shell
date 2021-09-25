@@ -75,10 +75,10 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["My Story", "/Story.md"],
-    ["Portfolio", "/temp.md"],
+    ["Portfolio", "/Resume.md"],
     ["Blog", "/Blog.md"],
     ["Book Shelf", "/Bookshelf.md"],
-    ["Resume", "/docs/Sajjad_Zafar_Resume.pdf"],
+    ["Resume", "/Resume.pdf"],
     ["Contact", "/Contact.md"],
   ]
 
