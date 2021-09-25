@@ -5,6 +5,7 @@ title = "Sajjad's Personal Website Shell"
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
+
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Sajjad Zafar's Personal Website!"
@@ -73,11 +74,11 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["My Story", "/temp.md"],
+    ["My Story", "/Story.md"],
     ["Portfolio", "/temp.md"],
-    ["Blog", "/temp.md"],
+    ["Blog", "/Blog.md"],
     ["Book Shelf", "/Bookshelf.md"],
-    ["Resume", "/temp.md"],
+    ["Resume", "/docs/Sajjad_Zafar_Resume.pdf"],
     ["Contact", "/Contact.md"],
   ]
 
